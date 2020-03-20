@@ -9,13 +9,13 @@ require_once 'vendor/autoload.php';
 $google_client = new Google_Client();
 
 //Set the OAuth 2.0 Client ID
-$google_client->setClientId('345807680937-5ac3lbkn30nom6qn95pa6ib8t6v7n7jv.apps.googleusercontent.com');
+$google_client->setClientId('941506086670-gmfetn647o6pdr23e3pdqco07put2ic8.apps.googleusercontent.com');
 
 //Set the OAuth 2.0 Client Secret key
-$google_client->setClientSecret('08eTbAAUQxcS5q7ezljMYnE2');
+$google_client->setClientSecret('Y4LGoWXjPXjgH0844NA6Lr3Y');
 
 //Set the OAuth 2.0 Redirect URI
-$google_client->setRedirectUri('https://movieapiexam.herokuapp.com/home.php');
+$google_client->setRedirectUri('https://examx.herokuapp.com');
 
 //
 $google_client->addScope('email');
