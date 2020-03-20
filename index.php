@@ -37,7 +37,7 @@ if($login_button == true){
 	  					}
         		}
 				?>
-
+				<br><br>
 				<?php
 				if(isset($facebook_login_url)){
 							 echo $facebook_login_url;
