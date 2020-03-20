@@ -38,9 +38,8 @@ if($login_button == true){
 	  					}
         		}
 				?>
-			<br>
 			<center><h2>Or</h2></center>
-				</br>
+				<br><br>
 				<?php
 				if(isset($facebook_login_url)){
 							 echo $facebook_login_url;
