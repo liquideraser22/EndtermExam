@@ -61,7 +61,7 @@ if($login_button == true){
 			</div>
 	    <br><br>
 	    <marquee behavior="scroll" scrollamount="10" width="60%" direction="left" height="60px" color:#f5f6f7>
-	CHOOSE AN ACCOUNT TO LOG IN
+	PLEASE CHOOSE AN ACCOUNT TO LOG IN
 	</marquee>
     </body>
 	<div id="dropDownSelect1"></div>
