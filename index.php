@@ -14,7 +14,7 @@ if($login_button == true){
 	    	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <body style="text-align: center;"> 
-	  	<div style="background-image: url('icons/lasalle.jpg'), "margin: 0 auto;">
+	  	<div style="background-image: url('icons/lasalle.jpg'), margin: 0 auto;">
 				<?php
 						if($login_button == '')
 						{
