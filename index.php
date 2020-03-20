@@ -16,6 +16,8 @@ if($login_button == true){
     <body style="background-image: url('images/icons/car.jpg');overflow-y: hidden;overflow-x: hidden;text-align: center;"> 
 	  	<div style="margin: 0 auto;">
 			<br><br>
+			JEMIL GONZALES | PEARLYN DIOCSON
+			<br><br>
 				<?php
 						if($login_button == '')
 						{
