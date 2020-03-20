@@ -1,5 +1,4 @@
 <?php
-//this file uses fb api to get user info from facebook and declare as sessions
 include('config_fb.php');
 
 $facebook_output = '';
