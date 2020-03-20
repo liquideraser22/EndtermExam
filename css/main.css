@@ -37,10 +37,6 @@
 body, html {
 	height: 100%;
 	font-family: Poppins-Regular, sans-serif;
-	background-image: url('images/icons/car.jpg');
-	overflow-y: hidden;
-        overflow-x: hidden;
-	background-size: auto;
 }
 
 /*---------------------------------------------*/
