@@ -39,6 +39,10 @@ body, html {
 	font-family: Poppins-Regular, sans-serif;
       	background-size: 100% 100%;
 	background-repeat: no-repeat;
+ 	 image-rendering: auto;
+ 	 image-rendering: crisp-edges;
+  	image-rendering: pixelated;
+}
 }
 
 /*---------------------------------------------*/
