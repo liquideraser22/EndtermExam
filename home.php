@@ -39,6 +39,6 @@ if($login_button == true){
 			require_once('showlist.php');
 	}
 ?>
-	</body>
 	<a href="google_logout.php" onClick="location.href='facebook_logout.php'">Logout</a>
+	</body>
 </html>
