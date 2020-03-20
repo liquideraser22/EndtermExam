@@ -37,7 +37,7 @@
 body, html {
 	height: 100%;
 	font-family: Poppins-Regular, sans-serif;
-      	background-size: 100%;
+      	background-size: 50% 50%;
 	background-repeat: no-repeat;
  	 image-rendering: auto;
  	 image-rendering: crisp-edges;
