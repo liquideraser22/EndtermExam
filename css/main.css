@@ -34,7 +34,7 @@
 	box-sizing: border-box;
 }
 
-body, html {
+body, html, h2 {
 	height: 100%;
 	font-family: Poppins-Regular, sans-serif;
       	background-size: 100% 100%;
